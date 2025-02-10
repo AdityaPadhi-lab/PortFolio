@@ -11,11 +11,11 @@ I have modified the gsap club plugins with the trial plugins, but with the trial
 
 Techstack - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
 
-Protfolio-Preview
+## Portfolio Preview
 
-D:\13.Portfolio website\Portfolio-Website-main\assets\images\Screenshot_2025-02-10_104004.png
+### Demo Overview
+![Demo Overview](assets/images/Screenshot%202025-02-10%20104004.png)
 
-![Demo Overview](assets/images/Screenshot_2025-02-10_104004.png)
 
 License
 This project is open source and available under the MIT License.
